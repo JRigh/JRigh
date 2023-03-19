@@ -19,6 +19,10 @@ I am a statistician, living in Switzerland, programming mostly in the R language
 - Descriptive statistics
 - Statistical inference
 - Data visualization
+- Other
+
+![knowhows](/assets/knowhows.jpg)
+
 
 ## Languages
 
@@ -26,13 +30,11 @@ I am a statistician, living in Switzerland, programming mostly in the R language
 - English
 - German (passive)
 
-## Eduaction
+## Education
 
-- Bsc. Business Economics
-- Msc. Statistics
+- Bsc. Business Economics (2016)
+- Msc. Statistics (2019)
 - external PhD. student in Statistics (as of 2022-2023)
-
-![knowhows](/assets/knowhows.jpg)
 
 Wish you enjoy the content.
 Please reach out for information/inquiries.
