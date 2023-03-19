@@ -4,7 +4,7 @@ I am a statistician, living in Switzerland, programming mostly in the R language
 
 ![welcome](/assets/welcome.jpg)
 
-## Know-hows
+# Know-hows
 
  - R programming (proficient, learning)
  - Python (learning)
@@ -13,7 +13,7 @@ I am a statistician, living in Switzerland, programming mostly in the R language
  - SAS (learning)
  - SPSS (learning)
 
-## Skills
+# Skills
 
 - Monte Carlo simulations
 - Descriptive statistics
@@ -24,13 +24,13 @@ I am a statistician, living in Switzerland, programming mostly in the R language
 ![knowhows](/assets/knowhows.jpg)
 
 
-## Languages
+# Languages
 
 - French
 - English
 - German (passive)
 
-## Education
+# Education
 
 - Bsc. Business Economics (2016)
 - Msc. Statistics (2019)
