@@ -28,3 +28,4 @@ I am a statistician, living in Switzerland, programming mostly in the R language
 ![knowhows](/assets/knowhows.jpg)
 
 Enjoy my the content.
+ 
