@@ -34,7 +34,7 @@ I am a statistician, living in Switzerland, programming mostly in the R language
 
 - Bsc. Business Economics (2016)
 - Msc. Statistics (2019)
-- external PhD. student in Statistics (as of 2022-2023)
+- external PhD. student in Statistics (ongoing, as of 2022-2023)
 
 Wish you enjoy the content.
 Please reach out for information/inquiries.
