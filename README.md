@@ -19,7 +19,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Statistical inference
 - Data visualization
 
-<img src="/assets/knowhows.jpg" width="600">
+<img src="/assets/knowhows.jpg" width="800">
 
 ### Languages
 
