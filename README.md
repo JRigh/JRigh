@@ -2,7 +2,7 @@ Greetings, my name is Julian Sampedro.
 
 I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python (and other data science tools).
 
-![welcome](/assets/welcome.jpg)
+<img src="/assets/welcome.jpg" width="800">
 
 ### Programming
 
@@ -20,7 +20,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Data visualization
 - Other
 
-<img src="/assets/knowhows.jpg" width="200">
+<img src="/assets/knowhows.jpg" width="600">
 
 ### Languages
 
