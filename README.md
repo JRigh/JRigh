@@ -1,6 +1,6 @@
 Greetings, my name is Julian Sampedro.
 
-I am a statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python (and other data science tools).
+I am a data scientist, initially trained as a statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python (and other data science tools).
 
 ![welcome](/assets/welcome.jpg)
 
@@ -31,9 +31,9 @@ I am a statistician, living in Switzerland, programming mostly in the R language
 
 ### Education
 
-- Bsc. Business Economics (2016)
+- Bsc. Business Administration (2016)
 - Msc. Statistics (2019)
-- external PhD. student in Statistics (ongoing, as of 2022-2023)
+- external PhD. student in Statistics (ongoing, as of 2022)
 
 Wish you enjoy the content.
 Please reach out for information/inquiries.
