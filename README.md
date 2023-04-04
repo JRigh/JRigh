@@ -6,11 +6,11 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ### Programming
 
- - R programming (proficient, learning)
- - Python (learning)
- - Java (learning)
- - SQL (learning)
- - SAS (learning)
+ - R programming 
+ - Python 
+ - Java 
+ - SQL 
+ - SAS 
 
 ### Skills
 
@@ -18,7 +18,6 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Descriptive statistics
 - Statistical inference
 - Data visualization
-- Other
 
 <img src="/assets/knowhows.jpg" width="600">
 
