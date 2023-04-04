@@ -20,7 +20,7 @@ I am a data scientist, initially trained as a statistician, living in Switzerlan
 - Data visualization
 - Other
 
-<img src="/assets/knowhows.jpg" width="800">
+<img src="/assets/knowhows.jpg" width="8000">
 
 ### Languages
 
