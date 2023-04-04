@@ -34,7 +34,7 @@ I am a data scientist, initially trained as a statistician, living in Switzerlan
 - Msc. Statistics (2019)
 - external PhD. student in Statistics (ongoing, as of 2022)
 
-Please reach out for information/inquiries.
+
 
 <h3 align="left">Programming languages, libraries and tools</h3><p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -48,3 +48,6 @@ Please reach out for information/inquiries.
 <a href="https://lubridate.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://lubridate.tidyverse.org/logo.png" alt="lubridate" width="40" height="40"/>
  <a href="https://www.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" alt="tidymodels" width="40" height="40"/>
   <a href="https://rsample.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://rsample.tidymodels.org/logo.png" alt="rsample" width="40" height="40"/>
+
+   
+   Please reach out for information/inquiries.
