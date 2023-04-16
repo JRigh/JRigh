@@ -37,7 +37,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 <a href="https://www.linkedin.com/in/julian-righ-sampedro/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/linkedin.png" alt="R" width="25" height="25"/> <a href="https://twitter.com/JRigh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/twitter.png" alt="R" width="25" height="25"/> <a href="https://www.instagram.com/jrighs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/instagram.png" alt="R" width="25" height="25"/>
 
-## Tools and libraries
+## 🛠️ Tools and libraries
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -52,5 +52,10 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
  <a href="https://www.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" alt="tidymodels" width="40" height="40"/>
   <a href="https://rsample.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://rsample.tidymodels.org/logo.png" alt="rsample" width="40" height="40"/>
 
+ ## 📈 GitHub statistics
+   
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JRigh)](https://github.com/JRigh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRigh&layout=compact)](https://github.com/JRigh)
    
    Please reach out for information/inquiries.
