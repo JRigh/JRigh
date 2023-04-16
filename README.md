@@ -33,15 +33,15 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Msc. Statistics (2019)
 - external PhD. student in Statistics (ongoing, as of 2022)
 
-## Connect with me
+## 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/julian-righ-sampedro/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/linkedin.png" alt="R" width="40" height="40"/>
-
 
 <a href="https://twitter.com/JRigh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/twitter.png" alt="R" width="40" height="40"/>
 
 <a href="https://www.instagram.com/jrighs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/instagram.png" alt="R" width="40" height="40"/>
 
+## Tools and libraries
 
 <h3 align="left">Programming languages, libraries and tools</h3><p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
