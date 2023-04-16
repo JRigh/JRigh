@@ -2,7 +2,6 @@ Greeting, my name is Julian Sampedro.
 
 I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python (and other data science tools).
 
-
 <img src="/assets/welcome.jpg" width="800">
 
 ### Programming
@@ -33,6 +32,10 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Bsc. Business Administration (2016)
 - Msc. Statistics (2019)
 - external PhD. student in Statistics (ongoing, as of 2022)
+
+## Connect with me
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 
