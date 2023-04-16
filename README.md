@@ -37,6 +37,8 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 <a href=”linkedin.com/in/julian-righ-sampedro"><img align=”left” src=”https://github.com/JRigh/JRigh/blob/main/assets/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
+<a href=”linkedin.com/in/julian-righ-sampedro/"><img align=”left” src=”https://raw.githubusercontent.com/JRigh/JRigh/main/assets/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+
 <a href=”https://www.instagram.com/jrighs"><img align=”left” src=”https://github.com/JRigh/JRigh/blob/main/assets/instagram.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
