@@ -35,11 +35,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/julian-righ-sampedro/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/linkedin.png" alt="R" width="40" height="40"/>
-
-<a href="https://twitter.com/JRigh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/twitter.png" alt="R" width="40" height="40"/>
-
-<a href="https://www.instagram.com/jrighs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/instagram.png" alt="R" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/julian-righ-sampedro/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/linkedin.png" alt="R" width="25" height="25"/> <a href="https://twitter.com/JRigh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/twitter.png" alt="R" width="25" height="25"/> <a href="https://www.instagram.com/jrighs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/instagram.png" alt="R" width="25" height="25"/>
 
 ## Tools and libraries
 
