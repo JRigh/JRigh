@@ -1,6 +1,8 @@
-Greetings, my name is Julian Sampedro.
+Greeting, my name is Julian Sampedro.
 
 I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python (and other data science tools).
+
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=JRigh"  style="width:300px; height:20px;"></iframe>
 
 <img src="/assets/welcome.jpg" width="800">
 
