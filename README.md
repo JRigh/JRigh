@@ -4,7 +4,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 <img src="/assets/welcome.jpg" width="800">
 
-### Programming
+## 🧑🏻‍💻 Programming
 
  - R programming 
  - Python 
@@ -12,7 +12,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
  - SQL 
  - SAS 
 
-### Skills
+## 🎯Skills
 
 - Monte Carlo simulations
 - Descriptive statistics
@@ -21,13 +21,13 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 <img src="/assets/knowhows.jpg" width="500">
 
-### Languages
+## 🗣️ Languages
 
 - French
 - English
 - German (passive)
 
-### Education
+## 🎓 Education
 
 - Bsc. Business Administration (2016)
 - Msc. Statistics (2019)
