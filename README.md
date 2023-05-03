@@ -1,4 +1,4 @@
-Greeting, my name is Julian Sampedro.
+Greetings, my name is Julian Sampedro.
 
 I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python, C++ other data science tools.
 
@@ -14,8 +14,9 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ## 🎯Skills
 
-- Monte Carlo simulations
 - Descriptive statistics
+- Monte Carlo simulations
+- Statisticsl modeling 
 - Statistical inference
 - Data visualization
 
@@ -31,7 +32,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 - Bsc. Business Administration (2016)
 - Msc. Statistics (2019)
-- external PhD. student in Statistics (ongoing, as of 2022)
+- external PhD. student in Statistics (ongoing, as of 2022. Research area: fuzzy logic, fuzzy set theory, fuzzy statistical inference)
 
 ## 🤝 Connect with me
 
