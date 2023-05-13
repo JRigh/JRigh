@@ -60,3 +60,5 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRigh&layout=compact)](https://github.com/JRigh)
    
    Please reach out for information/inquiries.
+
+<a href="https://www.buymeacoffee.com/julianrighs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
