@@ -50,7 +50,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
   <a href="https://dplyr.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://dplyr.tidyverse.org/logo.png" alt="dplyr" width="25" height="25"/> 
 <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="25" height="25"/> 
 <a href="https://lubridate.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://lubridate.tidyverse.org/logo.png" alt="lubridate" width="25" height="25"/>
- <a href="https://www.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" alt="tidymodels" width="40" height="40"/>
+ <a href="https://www.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" alt="tidymodels" width="40" height="25"/>
   <a href="https://rsample.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://rsample.tidymodels.org/logo.png" alt="rsample" width="25" height="25"/>
 
  ## 📈 GitHub statistics
