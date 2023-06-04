@@ -2,17 +2,18 @@ Greetings, my name is Julian Sampedro.
 
 I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python, C++ other data science tools.
 
-<img src="/assets/welcome.jpg" width="800">
+<img src="/assets/welcome1.jpg" width="800">
 
-## 🧑🏻‍💻 Programming
+## Programming
 
  - R programming 
  - Python 
  - Java 
+ - C++
  - SQL 
  - SAS 
 
-## 🎯Skills
+## Skills
 
 - Descriptive statistics
 - Monte Carlo simulations
@@ -22,23 +23,23 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 <img src="/assets/knowhows.jpg" width="500">
 
-## 🗣️ Languages
+## Languages
 
 - French
 - English
 - German (passive)
 
-## 🎓 Education
+## Education
 
 - Bsc. Business Administration (2016)
 - Msc. Statistics (2019)
 - external PhD. student in Statistics (ongoing, as of 2022. Research area: fuzzy logic, fuzzy set theory, fuzzy statistical inference)
 
-## 🤝 Connect with me
+## Connect with me
 
 <a href="https://www.linkedin.com/in/julian-righ-sampedro/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/linkedin.png" alt="R" width="25" height="25"/> <a href="https://twitter.com/JRigh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/twitter.png" alt="R" width="25" height="25"/> <a href="https://www.instagram.com/jrighs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JRigh/JRigh/main/assets/instagram.png" alt="R" width="25" height="25"/>
 
-## 🛠️ Tools and libraries
+## Tools and libraries
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> 
@@ -53,7 +54,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
  <a href="https://www.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" alt="tidymodels" width="25" height="25"/>
   <a href="https://rsample.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://rsample.tidymodels.org/logo.png" alt="rsample" width="25" height="25"/>
 
- ## 📈 GitHub statistics
+ ## GitHub statistics
    
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JRigh)](https://github.com/JRigh)
 
