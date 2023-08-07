@@ -17,7 +17,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 - Descriptive statistics
 - Monte Carlo simulations
-- Statisticsl modeling 
+- Statistical modeling 
 - Statistical inference
 - Data visualization
 
