@@ -21,8 +21,6 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Statistical inference
 - Data visualization
 
-<img src="/assets/knowhows.jpg" width="500">
-
 ## Languages
 
 - French
