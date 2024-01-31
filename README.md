@@ -29,9 +29,10 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ## Education
 
-- Bsc. Business Administration (2016)
-- Msc. Statistics (2019)
-- external PhD. student in Statistics (ongoing, as of 2022. Research area: fuzzy logic, fuzzy set theory, fuzzy statistical inference)
+- Bsc. Business Administration (HES-SO University of Applied Science, Fribourg, 2016)
+- Msc. Statistics (University of Neuchâtel, 2019)
+- external PhD. candidate in Statistics (University of Fribourg, Ongoing ,as of 2022. 
+  Research area: fuzzy logic, fuzzy set theory, fuzzy statistical inference)
 
 ## Connect with me
 
