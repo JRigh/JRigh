@@ -1,6 +1,6 @@
 Greetings, my name is Julian Sampedro.
 
-I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language with a keen interest in learning Python, C++ other data science tools.
+I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language, also Python, C++ others.
 
 <img src="/assets/welcome1.jpg" width="800">
 
