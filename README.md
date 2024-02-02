@@ -16,11 +16,12 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 ## Skills
 
 - Descriptive statistics
+- Data visualization
 - Monte Carlo simulations
 - Ressampling methods
 - Statistical modeling 
 - Statistical inference
-- Data visualization
+- Bayesian inference 
 
 ## Languages
 
@@ -32,7 +33,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 - Bsc. Business Administration (HES-SO University of Applied Science, Fribourg, 2016)
 - Msc. Statistics (University of Neuchâtel, 2019)
-- external PhD. candidate in Statistics (University of Fribourg, Ongoing as of 2022. 
+- external PhD. candidate in Statistics (University of Fribourg, ongoing as of 2022. 
   Research area: fuzzy logic, fuzzy set theory, fuzzy statistical inference)
 
 ## Connect with me
