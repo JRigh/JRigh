@@ -30,7 +30,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - German
 - Spanish (notions)
 
-## Citizenship
+## Citizenships
 
 - Swiss
 - Spanish (as of 2024)
