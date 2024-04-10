@@ -28,8 +28,11 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - French
 - English
 - German
-- Norwegian (passive)
+- Norwegian 
 - Spanish (notions)
+- Italian (beginner)
+- Chinese (beginner)
+- Vietnamese (beginner)
 
 ## Citizenships
 
@@ -42,6 +45,10 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Msc. Statistics (University of Neuchâtel, 2019)
 - external PhD. candidate in Statistics (University of Fribourg, ongoing as of 2022. 
   Research area: fuzzy logic, fuzzy set theory, fuzzy statistical inference)
+
+## Affiliation
+
+The Swiss Statistical Society (SSS)
 
 ## Connect with me
 
