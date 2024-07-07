@@ -48,8 +48,8 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ## Affiliation
 
-The Swiss Statistical Society (SSS)
-Royal Statistical Society (RSS)
+- The Swiss Statistical Society (SSS)
+- Royal Statistical Society (RSS)
 
 ## Connect with me
 
