@@ -9,7 +9,6 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
  - R programming 
  - Python 
  - Java 
- - C++
  - SQL 
  - SAS 
 
@@ -27,7 +26,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 - French
 - English
-- German
+- German (passive)
 - Norwegian (intermediate)
 - Spanish (notions)
 - Italian (beginner)
