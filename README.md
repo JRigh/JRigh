@@ -2,7 +2,7 @@ Greetings, my name is Julian Sampedro.
 
 I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language, also Python, C++ and others.
 
-<img src="/assets/GitHub.JPG" width="580">
+<img src="/assets/GitHub.JPG" width="780">
 
 ## Programming
 
