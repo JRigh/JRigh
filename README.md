@@ -20,7 +20,6 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 - Ressampling methods
 - Statistical modeling 
 - Statistical inference
-- Bayesian inference 
 
 ## Languages
 
@@ -33,7 +32,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 ## Citizenships
 
 - Swiss
-- Spanish (as of 2024)
+- Spanish
 
 ## Education
 
