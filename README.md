@@ -81,7 +81,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
     {\scriptsize \textbf{Workflow management}}
     \vspace{1mm}
 
-    % --- Circular Chart 3 ---\begin{tikzpicture}[
+    % --- Circular Chart 3 ---
 \begin{tikzpicture}[
     font=\sffamily\bfseries\large,
     text=white,
@@ -104,8 +104,8 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
     \node at (327.6:2cm) {Other};   % middle of 295.2-360
 \end{tikzpicture}
 
-
 \end{minipage}
+
 
 ## Languages
 
