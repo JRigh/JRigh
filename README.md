@@ -4,20 +4,108 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 <img src="/assets/GitHub.JPG" width="780">
 
-## Programming
-
- - R programming 
- - Python 
- - SQL 
- - Java 
-
-
 ## Skills
 
 - Descriptive statistics
 - Data visualization
 - Monte Carlo simulations and ressampling methods
 - Statistical modeling and inference
+
+## IT
+
+\noindent
+\begin{minipage}[t]{0.32\textwidth}
+    \centering
+    {\scriptsize \textbf{Programming Languages}}
+    \vspace{1mm}
+
+    % --- Circular Chart 1 ---
+\begin{tikzpicture}[
+    font=\sffamily\bfseries\large,
+    text=white,
+    border/.style={line width=14mm}
+]
+    % Percentages: R 60%, Python 30%, SQL 6%, Java 4%
+    \foreach \start/\end/\col in 
+        {0/216/new1, 216/324/red1, 324/345.6/red2, 345.6/360/red3} {
+        \draw[\col, border] (\start:2cm) arc[start angle=\start, end angle=\end, radius=2cm];
+    }
+
+    % Dividing lines
+    \foreach \angle in {0,216,324,345.6} {
+        \draw[white, line width=1mm] (\angle:1.3)--++(\angle:1.4);
+    }
+
+    % Labels (placed roughly at middle of each slice)
+    \node at (108:2cm) {R};           % middle of 0-216
+    \node at (270:2cm) {Python};      % middle of 216-324
+    \node at (334.8:2cm) {SQL};       % middle of 324-345.6
+    \node at (352.8:2.2cm) {Java};    % middle of 345.6-360
+\end{tikzpicture}
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.32\textwidth}
+    \centering
+    {\scriptsize \textbf{Softwares}}
+    \vspace{1mm}
+
+     % --- Circular Chart 2 ---
+    \begin{tikzpicture}[
+        font=\sffamily\bfseries\large,
+        text=white,
+        border/.style={line width=14mm}
+    ]
+        % Percentages: 55, 15, 10, 10, 10
+        \foreach \start/\end/\col in 
+            {0/198/new1, 198/252/red1, 252/288/red2, 288/324/red3, 324/360/red4} {
+            \draw[\col, border] (\start:2cm) arc[start angle=\start, end angle=\end, radius=2cm];
+        }
+
+        % Dividing lines
+        \foreach \angle in {0,198,252,288,324} {
+            \draw[white, line width=1mm] (\angle:1.3)--++(\angle:1.4);
+        }
+
+        % Labels (roughly center of each slice)
+        \node at (90:1.8cm) {Microsoft Office}; % middle of 0-198
+        \node at (225:2cm) {PowerBI};        % middle of 198-252
+        \node at (270:2cm) {SPSS};           % middle of 252-288
+        \node at (306:2cm) {SAS};            % middle of 288-324
+        \node at (342:2cm) {SAP};            % middle of 324-360
+    \end{tikzpicture}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.32\textwidth}
+    \centering
+    {\scriptsize \textbf{Workflow management}}
+    \vspace{1mm}
+
+    % --- Circular Chart 3 ---\begin{tikzpicture}[
+\begin{tikzpicture}[
+    font=\sffamily\bfseries\large,
+    text=white,
+    border/.style={line width=14mm}
+]
+    % Percentages: Git 70%, Docker 12%, Other 18%
+    \foreach \start/\end/\col in
+        {0/252/new1, 252/295.2/red1, 295.2/360/red2} {
+        \draw[\col, border] (\start:2cm) arc[start angle=\start, end angle=\end, radius=2cm];
+    }
+
+    % Dividing lines
+    \foreach \angle in {0,252,295.2} {
+        \draw[white, line width=1mm] (\angle:1.3)--++(\angle:1.4);
+    }
+
+    % Labels (placed roughly at middle of each slice)
+    \node at (126:2cm) {Git};       % middle of 0-252
+    \node at (273.6:2cm) {Docker};  % middle of 252-295.2
+    \node at (327.6:2cm) {Other};   % middle of 295.2-360
+\end{tikzpicture}
+
+
+\end{minipage}
 
 ## Languages
 
