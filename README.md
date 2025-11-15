@@ -24,8 +24,8 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ## Citizenships
 
-- Swiss
-- Spanish
+- Switzerland
+- Spain
 
 ## Education
 
