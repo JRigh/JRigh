@@ -1,4 +1,4 @@
-Greetings, my name is Julian Sampedro.
+Greetings, my name is Julian,
 
 I am a Data Scientist, initially trained as a Statistician, living in Switzerland, programming mostly in the R language, also Python and others.
 
