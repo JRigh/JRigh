@@ -17,10 +17,7 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ## Languages
 
-- French
-- English
-- German 
-- Spanish (basic)
+<img src="/assets/Languages.JPG" width="600">
 
 ## Citizenships
 
