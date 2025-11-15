@@ -13,11 +13,11 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 
 ## IT
 
-<img src="/assets/IT.JPG" width="600">
+<img src="/assets/IT.JPG" width="650">
 
 ## Languages
 
-<img src="/assets/Languages.JPG" width="450">
+<img src="/assets/Languages.JPG" width="420">
 
 ## Citizenships
 
