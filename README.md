@@ -54,12 +54,6 @@ I am a Data Scientist, initially trained as a Statistician, living in Switzerlan
 <a href="https://lubridate.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://lubridate.tidyverse.org/logo.png" alt="lubridate" width="25" height="25"/>
  <a href="https://www.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" alt="tidymodels" width="25" height="25"/>
   <a href="https://rsample.tidymodels.org/" target="_blank" rel="noreferrer"> <img src="https://rsample.tidymodels.org/logo.png" alt="rsample" width="25" height="25"/>
-
- ## GitHub statistics
-   
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JRigh)](https://github.com/JRigh)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRigh&layout=compact)](https://github.com/JRigh)
    
 Please reach out for information/inquiries.
 
